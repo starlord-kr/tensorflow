@@ -26,3 +26,7 @@ TensorFlow의 장점
 4. 전세계적으로 폭넓은 사용자 Community
 5. Google의 강력한 지원과 발빠른 신기능 업데이트
 
+
+> 참고자료
+>    > https://github.com/tensorflowkorea/tensorflow-kr
+>    > https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/
