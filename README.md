@@ -28,6 +28,8 @@ TensorFlow의 장점
 
 참고자료
 ---------------
+> 한글블로그
+>    > https://tensorflow.blog/1-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B8%B0%EB%B3%B8%EB%8B%A4%EC%A7%80%EA%B8%B0-first-contact-with-tensorflow/
 > 한글번역문서
 >    > https://github.com/tensorflowkorea/tensorflow-kr   
 >    > https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/   
